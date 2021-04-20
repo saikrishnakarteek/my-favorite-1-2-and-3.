@@ -1,0 +1,16 @@
+body {
+    font-family: cursive;
+    background: linear-gradient(#ff00b7 0%, #00f2ff 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1 {
+   
+    font-size: 20px;
+}
+
+img{
+    height:200px;
+}
